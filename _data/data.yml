@@ -95,16 +95,13 @@ skills:
         level: 98%
 
       - name: Javascript & jQuery
-        level: 10% 
+        level: 0%
 
-      - name: C++
-      level: 10%
-     
-     - name: HTML5 & CSS
+      - name: HTML5 & CSS
         level: 25%
 
-     - name: Photoshop
-        level: 40%
+      - name: Photoshop
+        level: 20%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
