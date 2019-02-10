@@ -89,6 +89,15 @@ publications:
     title: Publications
     intro: |
     None yet.
+    
+assignments:
+      - title: 
+        link: "#hook"
+        tagline: ""
+
+      - title: 
+        link: "#"
+        tagline: ""
 
    
 
