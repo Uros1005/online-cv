@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: akimaki15@gmail.com
     phone: 0616297613
-    website: / #do not add http://
+    website: AleksaM15.github.io #do not add http://
     linkedin: /
     github: AleksaM15
     gitlab:
@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      None.
+      None yet.
 
 education:
     - degree: Elektro-tehnicar racunara
@@ -64,7 +64,7 @@ education:
    
 
 experiences:
-    - role: None yet
+    - role: None yet.
       time: 
       company: 
       details: |
