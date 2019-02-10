@@ -87,8 +87,8 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-    None yet.
+    intro: | None yet.
+    
     
 assignments:
       - title: 
@@ -114,10 +114,7 @@ skills:
      - name: HTML5 & CSS
         level: 25%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Photoshop
+     - name: Photoshop
         level: 40%
 
 footer: >
