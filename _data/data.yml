@@ -85,20 +85,6 @@ projects:
         tagline: "Trying to use Linux as much as possible."
 
 
-publications:
-    title: Publications
-    intro: | None yet.
-    
-    
-assignments:
-      - title: 
-        link: "#hook"
-        tagline: ""
-
-      - title: 
-        link: "#"
-        tagline: ""
-
    
 
 skills:
@@ -111,6 +97,9 @@ skills:
       - name: Javascript & jQuery
         level: 10% 
 
+      -name: C++
+      level: 10%
+     
      - name: HTML5 & CSS
         level: 25%
 
