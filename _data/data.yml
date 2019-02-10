@@ -1,4 +1,4 @@
-#
+﻿#
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
@@ -33,13 +33,13 @@ sidebar:
 
 
     interests:
-      - item: 
+      - item: Swimming
         link:
 
-      - item: 
+      - item:Partying 
         link:
 
-      - item: 
+      - item:Playing video games 
         link:
 
 career-profile:
