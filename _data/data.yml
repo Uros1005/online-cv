@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Aleksa Milošević
+    name: Uros Todorovic
     tagline: Student
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar:
 
     # Sidebar links
-    email: akimaki15@gmail.com
-    phone: +381616297613 (Serbian)
-    website: AleksaM15.github.io #do not add http://
+    email: Uros1005@yahoo.com
+    phone: +381604435311 (Serbian)
+    website: 
     linkedin: 
-    github: AleksaM15
+    github: Uros1005
     gitlab:
     bitbucket:
-    twitter: 'Akimaki15'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,13 +33,13 @@ sidebar:
 
 
     interests:
-      - item: Swimming
+      - item: breaking
         link:
 
-      - item: Partying 
+      - item: Reading
         link:
 
-      - item: Playing video games 
+      - item: Mountain climbing
         link:
 
 career-profile:
@@ -48,9 +48,9 @@ career-profile:
       None yet.
 
 education:
-    - degree: Elektro-tehnicar racunara
-      university: STS "Mihajlo Pupin" Kula
-      time: 2015 - 2019
+    - degree: Elektro-tehnicar elektronike
+      university: "FIS" Racunalstvo in spletne tehnologije
+      time:
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -91,8 +91,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Swimming
-        level: 98%
+      - name: breaking
+        level: 48%
 
       - name: Javascript & jQuery
         level: 0%
